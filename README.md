@@ -1,3 +1,3 @@
-## Programa tareas por hacer
+## Program TODO
 
-Ejemplo de curso de Udemy sobre node.js
+Udemy Course about Node.js
